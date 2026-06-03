@@ -15,3 +15,7 @@ Collaborate in hardware accelerator design for AI/ML
 Engage in design verification, embedded systems, and edge computing
 Whether you’re preparing for semiconductor product companies or want to build your own FPGA-based accelerators, this workshop builds the right foundation.
 
+https://www.koheron.com/support/tutorials/
+
+https://reference.digilentinc.com/vivado/installing-vivad o/start
+
